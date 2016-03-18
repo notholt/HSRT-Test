@@ -1,0 +1,47 @@
+\documentclass[12pt, a4paper]{book}
+\usepackage[english, german]{babel}
+%\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{pdfpages}
+\usepackage[bookmarksopenlevel=1]{hyperref}
+\usepackage[margin=1in]{geometry}
+\usepackage[numbered]{bookmark}
+\usepackage{titlesec}
+\usepackage{graphicx}
+
+\newcommand{\thesubject}{Verantstaltung}
+
+% LuaTex Specifics
+\usepackage[math]{fontspec}
+\usepackage{unicode-math}
+\setmathfont{Asana-Math.otf}
+\usepackage{fontenc}
+\setmainfont{DINOT-Light.otf}[
+	BoldFont = DINOT-Medium.otf,
+	ItalicFont = DINOT-Regular.otf]
+	
+\titleformat{\chapter}[display]
+  {\vskip-30pt\fontspec{DINOT-Regular.otf}\large}
+  {\parbox[b]{0.5\linewidth}{\thesubject}\hfill \includegraphics[scale=1]{logos/Logo_HSRT_Schwarz}\vspace{40pt} \huge \chaptername~\thechapter}{2pt}{\fontspec{DINOT-Medium.otf}\Huge}
+\titleformat{\section}
+  {\fontspec{BlenderPro-Medium.otf}\huge}
+  {\thesection}{1em}{}
+
+
+\hypersetup{
+  pdftitle    = {Skript zur Vorlesung},
+  pdfsubject  = {Regelungstechnik und -systeme},
+  pdfauthor   = {Prof. A. Notholt},
+  pdfkeywords = {} ,
+  pdfcreator  = {pdflatex},
+  pdfproducer = {Reutlingen-University.de}
+}
+
+
+\begin{document}
+
+	\renewcommand{\thesubject}{Regelungstechnik 1\\ Regelungstechnik 2 \\Regelungssysteme}
+	
+	\input{allgemein/01_RT_Einfuehrung}	
+	
+\end{document}

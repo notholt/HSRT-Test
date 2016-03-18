@@ -1,0 +1,1295 @@
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/W32TeX) (rev 5238)  (format=lualatex 2016.3.14)  15 MAR 2016 20:16
+ restricted \write18 enabled.
+**formatvorlage1.tex
+(./formatvorlage1.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 1 language(s) loaded.
+(c:/texlive/2015/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2015/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(c:/texlive/2015/texmf-dist/tex/generic/babel/luababel.def
+\l@dumylang=\language1
+\l@nohyphenation=\language2
+\l@german-x-2014-05-21=\language3
+\l@ngerman-x-2014-05-21=\language4
+\l@armenian=\language5
+\l@basque=\language6
+\l@catalan=\language7
+\l@croatian=\language8
+\l@danish=\language9
+\l@dutch=\language10
+\l@ukenglish=\language11
+\l@usenglishmax=\language12
+\l@estonian=\language13
+\l@finnish=\language14
+\l@french=\language15
+\l@friulan=\language16
+\l@galician=\language17
+\l@german=\language18
+\l@ngerman=\language19
+\l@swissgerman=\language20
+\l@hungarian=\language21
+\l@icelandic=\language22
+\l@irish=\language23
+\l@italian=\language24
+\l@kurmanji=\language25
+\l@latin=\language26
+\l@classiclatin=\language27
+\l@latvian=\language28
+\l@lithuanian=\language29
+\l@bokmal=\language30
+\l@nynorsk=\language31
+\l@occitan=\language32
+\l@piedmontese=\language33
+\l@romanian=\language34
+\l@romansh=\language35
+\l@slovenian=\language36
+\l@spanish=\language37
+\l@swedish=\language38
+\l@turkish=\language39
+\l@uppersorbian=\language40
+\l@welsh=\language41
+)
+(c:/texlive/2015/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(c:/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(c:/texlive/2015/texmf-dist/tex/generic/babel/luababel.def))
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(c:/texlive/2015/texmf-dist/tex/generic/babel-german/german.ldf
+Language: german 2014/10/10 v2.7b German support for babel (traditional orthogra
+phy)
+
+(c:/texlive/2015/texmf-dist/tex/generic/babel-german/germanb.ldf
+Language: germanb 2014/10/10 v2.7b German support for babel (traditional orthogr
+aphy)
+\l@austrian = a dialect from \language\l@german 
+Package babel Info: Making " an active character on input line 110.
+
+(c:/texlive/2015/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-de-1901.tex
+UTF-8 German hyphenation patterns (traditional orthography)
+(c:/texlive/2015/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1901.tex
+
+German Hyphenation Patterns (Traditional Orthography) `dehypht-x' 2014-05-21 (W
+L)))))) (c:/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(c:/texlive/2015/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count91
+\calc@Cskip=\skip45
+)
+(c:/texlive/2015/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(c:/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count92
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+)
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+\AM@pagewidth=\dimen108
+\AM@pageheight=\dimen109
+
+(c:/texlive/2015/texmf-dist/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2015/09/18 v0.5d Pdfpages driver for LuaTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks15
+\c@AM@survey=\count93
+\AM@templatesizebox=\box27
+)
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: luatex-loader 2010/03/09 v0.4 Lua module loader (HO)
+
+(c:/texlive/2015/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks16
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
+
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen110
+\Hy@linkcounter=\count94
+\Hy@pagecounter=\count95
+
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count96
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count97
+
+(c:/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen111
+\Fld@menulength=\count98
+\Field@Width=\dimen112
+\Fld@charsize=\dimen113
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count99
+\c@Item=\count100
+\c@Hfootnote=\count101
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count102
+\c@bookmark@seq@number=\count103
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
+2.
+)
+\Hy@SectionHShift=\skip46
+)
+(c:/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks17
+)
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/bookmark.sty
+Package: bookmark 2011/12/02 v1.24 PDF bookmarks (HO)
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+File: bkm-pdftex.def 2011/12/02 v1.24 bookmark driver for pdfTeX (HO)
+\BKM@id=\count107
+))
+(c:/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box28
+\beforetitleunit=\skip47
+\aftertitleunit=\skip48
+\ttl@plus=\dimen122
+\ttl@minus=\dimen123
+\ttl@toksa=\toks18
+\titlewidth=\dimen124
+\titlewidthlast=\dimen125
+\titlewidthfirst=\dimen126
+)
+(c:/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
+
+(c:/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/01/19 v6377 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
+\ucharcat@table=\catcodetable5
+L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+L3 Module: l3str 2016/01/03 v6357 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/01/05 v6366 L3 Integers
+\c_max_int=\count108
+\l_tmpa_int=\count109
+\l_tmpb_int=\count110
+\g_tmpa_int=\count111
+\g_tmpb_int=\count112
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count113
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
+\l_iow_line_count_int=\count114
+\l__iow_target_count_int=\count115
+\l__iow_current_line_int=\count116
+\l__iow_current_word_int=\count117
+\l__iow_current_indentation_int=\count118
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+\c_zero_dim=\dimen127
+\c_max_dim=\dimen128
+\l_tmpa_dim=\dimen129
+\l_tmpb_dim=\dimen130
+\g_tmpa_dim=\dimen131
+\g_tmpb_dim=\dimen132
+\c_zero_skip=\skip49
+\c_max_skip=\skip50
+\l_tmpa_skip=\skip51
+\l_tmpb_skip=\skip52
+\g_tmpa_skip=\skip53
+\g_tmpb_skip=\skip54
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count119
+\l_keys_choice_int=\count120
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
+\c__fp_leading_shift_int=\count121
+\c__fp_middle_shift_int=\count122
+\c__fp_trailing_shift_int=\count123
+\c__fp_big_leading_shift_int=\count124
+\c__fp_big_middle_shift_int=\count125
+\c__fp_big_trailing_shift_int=\count126
+\c__fp_Bigg_leading_shift_int=\count127
+\c__fp_Bigg_middle_shift_int=\count128
+\c__fp_Bigg_trailing_shift_int=\count129
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen133
+\l__coffin_offset_x_dim=\dimen134
+\l__coffin_offset_y_dim=\dimen135
+\l__coffin_x_dim=\dimen136
+\l__coffin_y_dim=\dimen137
+\l__coffin_x_prime_dim=\dimen138
+\l__coffin_y_prime_dim=\dimen139
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\l__coffin_display_coffin=\box40
+\l__coffin_display_coord_coffin=\box41
+\l__coffin_display_pole_coffin=\box42
+\l__coffin_display_offset_dim=\dimen140
+\l__coffin_display_x_dim=\dimen141
+\l__coffin_display_y_dim=\dimen142
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen143
+\l__box_bottom_dim=\dimen144
+\l__box_left_dim=\dimen145
+\l__box_right_dim=\dimen146
+\l__box_top_new_dim=\dimen147
+\l__box_bottom_new_dim=\dimen148
+\l__box_left_new_dim=\dimen149
+\l__box_right_new_dim=\dimen150
+\l__box_internal_box=\box43
+\l__coffin_bounding_shift_dim=\dimen151
+\l__coffin_left_corner_dim=\dimen152
+\l__coffin_right_corner_dim=\dimen153
+\l__coffin_bottom_corner_dim=\dimen154
+\l__coffin_top_corner_dim=\dimen155
+\l__coffin_scaled_total_height_dim=\dimen156
+\l__coffin_scaled_width_dim=\dimen157
+L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
+)
+(c:/texlive/2015/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2015/11/11 v6250 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count130
+))
+(c:/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count131
+\l__xparse_m_args_int=\count132
+\l__xparse_mandatory_args_int=\count133
+\l__xparse_processor_int=\count134
+\l__xparse_v_nesting_int=\count135
+)
+Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2015/texmf-dist/tex/luatex/luaotfload/luaotfload.sty
+Package: luaotfload 2015/12/09 v2.6 OpenType layout system
+Lua module: luaotfload-main 2015/12/09 2.60001 OpenType layout system.
+Lua module: lualibs 2015-12-02 2.3 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2015-12-02 2.3 ConTeXt Lua libraries -- extended co
+llection.(using cache: C:/texlive/2015/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is C:/texlive/2015/texmf-var/luatex-cac
+he/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2016-02-12.lua” from kpse
+-resolved path “c:/texlive/2015/texmf-dist/tex/luatex/luaotfload/fontloader-20
+16-02-12.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@cursbase = 2
+Lua-only attribute luaotfload@noligature = 3
+luaotfload | init : Context OpenType loader version “2.82”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is C:/texlive/2015/texmf-var/luatex-cac
+he/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.094 seconds)
+Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
+(c:/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
+X
+\l_fontspec_script_int=\count136
+\l_fontspec_language_int=\count137
+\l_fontspec_strnum_int=\count138
+\l__fontspec_tmpa_dim=\dimen158
+\l__fontspec_tmpb_dim=\dimen159
+\l__fontspec_tmpc_dim=\dimen160
+\g__file_internal_ior=\read1
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(c:/texlive/2015/texmf-dist/tex/latex/euenc/eu2enc.def
+File: eu2enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU2+lmr on input line 105.
+
+(c:/texlive/2015/texmf-dist/tex/latex/euenc/eu2lmr.fd
+File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+luaotfload | db : Font names database loaded from C:/texlive/2015/texmf-var/luat
+ex-cache/generic/names/luaotfload-names.luc(load luc: C:/texlive/2015/texmf-var/
+luatex-cache/generic/fonts/otf/lmroman10-regular.luc))(load luc: C:/texlive/2015
+/texmf-var/luatex-cache/generic/fonts/otf/lmroman12-regular.luc)
+(c:/texlive/2015/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many o
+ther characters in Unicode lower plane
+
+(c:/texlive/2015/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+(load luc: C:/texlive/2015/texmf-var/luatex-cache/generic/fonts/otf/lmromanslant
+12-regular.luc)(load luc: C:/texlive/2015/texmf-var/luatex-cache/generic/fonts/o
+tf/lmroman12-italic.luc)(load luc: C:/texlive/2015/texmf-var/luatex-cache/generi
+c/fonts/otf/lmroman12-bold.luc)
+LaTeX Font Info:    Try loading font information for EU2+lmss on input line 357.
+
+ (c:/texlive/2015/texmf-dist/tex/latex/euenc/eu2lmss.fd
+File: eu2lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)(load luc: C:/texlive/2015/texmf-var/luatex-cache/generic/fonts/otf/lmsans12-re
+gular.luc))
+\tipaTiiicode=\count139
+\tipasavetokens=\toks19
+\tipachecktokens=\toks20
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 356.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'om' on line 358.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'om' on line 368.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'om' on line 378.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'om' on line 388.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'om' on line 402.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'om' on line 410.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'om' on line 418.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'om' on line 426.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mom' on line 440.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mom' on line 456.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 470.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 533.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 544.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 552.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 560.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 581.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 598.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 603.
+.................................................
+\l__fontspec_tmp_int=\count140
+
+(c:/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 2629.
+LaTeX Info: Redefining \slshape on input line 2634.
+LaTeX Info: Redefining \scshape on input line 2639.
+LaTeX Info: Redefining \upshape on input line 2644.
+\l__fontspec_em_int=\count141
+\l__fontspec_emdef_int=\count142
+LaTeX Info: Redefining \em on input line 2660.
+LaTeX Info: Redefining \emph on input line 2666.
+LaTeX Info: Redefining \- on input line 2670.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 2765.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 2769.
+.................................................
+))
+(c:/texlive/2015/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+Package: unicode-math 2015/09/24 v0.8c Unicode maths in XeLaTeX and LuaLaTeX
+
+(c:/texlive/2015/texmf-dist/tex/latex/ucharcat/ucharcat.sty
+Package: ucharcat 2015/11/19 v0.03 ucharcat for luaLaTeX (DPC)
+\ucharcat@table=\catcodetable6
+)
+(c:/texlive/2015/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2016/01/19 v6377 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2015/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+(c:/texlive/2015/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)
+\g__um_fam_int=\count143
+\g__um_primekern_muskip=\muskip17
+\l__um_primecount_int=\count144
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \unimathsetup with sig. 'm' on line 168.
+.................................................
+
+(c:/texlive/2015/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty
+(c:/texlive/2015/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty
+Package: lualatex-math 2015/09/22 v1.4a Patches for mathematics typesetting with
+ LuaLaTeX
+
+(c:/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count145
+)
+Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting wit
+h LuaLaTeX)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathfontface with sig. 'mO{}mO{}' on line 167.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setoperatorfont with sig. 'm' on line 171.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathfont with sig. 'O{}mO{}' on line 280.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addnolimits with sig. 'm' on line 523.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \removenolimits with sig. 'm' on line 527.
+.................................................
+
+(c:/texlive/2015/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:(load luc: C:/texlive/2015/texmf-var/luatex-cache/generic/fonts/otf/asana
+-math.luc)
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:
+\g__fontspec_family_Asana-Math.otf_int=\count146
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | db : Reload initiated (formats: otf,ttf,ttc,dfont); reason: "File n
+ot found: Asana-Math.".
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | aux : font no 24 (Asana-Math) does not define feature smcp for scri
+pt math with language dflt
+luaotfload | aux : no font with id 24
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Asana-Math.otf(0)' created for font 'Asana-Math.otf' with
+. options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=12-},{Size=8-12,Font=Asana-Math.otf,Style=MathScript},{Size=-8,Font=Asana-Math
+.otf,Style=MathScriptScript}}].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <12->"[Asana-Math]:mode=base;script=math;language=DFLT;"<8-12>"[Asana-Math]:mo
+de=base;script=math;language=DFLT;+ssty=0;"<-8>"[Asana-Math]:mode=base;script=ma
+th;language=DFLT;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:
+LaTeX Font Info:    Encoding `OT1' has changed to `EU2' for symbol font
+(Font)              `operators' in the math version `normal' on input line 17.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU2/Asana-Math.otf(0)/m/n on input line 
+17.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU2' for symbol font
+(Font)              `operators' in the math version `bold' on input line 17.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU2/Asana-Math.otf(0)/bx/n on input lin
+e 17.
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | aux : font no 24 (Asana-Math) does not define feature smcp for scri
+pt math with language dflt
+luaotfload | aux : no font with id 24
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Asana-Math.otf(1)' created for font 'Asana-Math.otf' with
+. options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=12-},{Size=8-12,Font=Asana-Math.otf,Style=MathScript},{Size=-8,Font=Asana-Math
+.otf,Style=MathScriptScript}},Scale=1.00001,FontAdjustment={\fontdimen
+. 8\font =570163.2sp\relax \fontdimen 9\font =471859.2sp\relax \fontdimen
+. 10\font =39321.6sp\relax \fontdimen 11\font =558366.72sp\relax \fontdimen
+. 12\font =393216sp\relax \fontdimen 13\font =283901.952sp\relax \fontdimen
+. 14\font =283901.952sp\relax \fontdimen 15\font =232783.872sp\relax
+. \fontdimen 16\font =165150.72sp\relax \fontdimen 17\font =0sp\relax
+. \fontdimen 18\font =180879.36sp\relax \fontdimen 19\font =174587.904sp\relax
+. \fontdimen 20\font =0pt\relax \fontdimen 21\font =0pt\relax \fontdimen
+. 22\font =213123.072sp\relax }].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <12->s*[1.00001]"[Asana-Math]:mode=base;script=math;language=DFLT;"<8-12>s*[1.
+00001]"[Asana-Math]:mode=base;script=math;language=DFLT;+ssty=0;"<-8>s*[1.00001]
+"[Asana-Math]:mode=base;script=math;language=DFLT;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \fontdimen 8\font =570163.2sp\relax \fontdimen 9\font =471859.2sp\relax
+. \fontdimen 10\font =39321.6sp\relax \fontdimen 11\font =558366.72sp\relax
+. \fontdimen 12\font =393216sp\relax \fontdimen 13\font =283901.952sp\relax
+. \fontdimen 14\font =283901.952sp\relax \fontdimen 15\font
+. =232783.872sp\relax \fontdimen 16\font =165150.72sp\relax \fontdimen 17\font
+. =0sp\relax \fontdimen 18\font =180879.36sp\relax \fontdimen 19\font
+. =174587.904sp\relax \fontdimen 20\font =0pt\relax \fontdimen 21\font
+. =0pt\relax \fontdimen 22\font =213123.072sp\relax 
+.................................................
+LaTeX Font Info:    Encoding `OMS' has changed to `EU2' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 17.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> EU2/Asana-Math.otf(1)/m/n on input line
+ 17.
+LaTeX Font Info:    Encoding `OMS' has changed to `EU2' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 17.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> EU2/Asana-Math.otf(1)/bx/n on input lin
+e 17.
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:
+luaotfload | load : path lookup of "Asana-Math.otf" unsuccessful, falling back t
+o file:
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | aux : font no 24 (Asana-Math) does not define feature smcp for scri
+pt math with language dflt
+luaotfload | aux : no font with id 24
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+luaotfload | load : path lookup of "Asana-Math" unsuccessful, falling back to fi
+le:
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Asana-Math.otf(2)' created for font 'Asana-Math.otf' with
+. options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=12-},{Size=8-12,Font=Asana-Math.otf,Style=MathScript},{Size=-8,Font=Asana-Math
+.otf,Style=MathScriptScript}},Scale=0.99999,FontAdjustment={\fontdimen
+. 8\font =46399.488sp\relax \fontdimen 9\font =87293.952sp\relax \fontdimen
+. 10\font =131334.144sp\relax \fontdimen 11\font =157286.4sp\relax \fontdimen
+. 12\font =471859.2sp\relax \fontdimen 13\font =0pt\relax }].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <12->s*[0.99999]"[Asana-Math]:mode=base;script=math;language=DFLT;"<8-12>s*[0.
+99999]"[Asana-Math]:mode=base;script=math;language=DFLT;+ssty=0;"<-8>s*[0.99999]
+"[Asana-Math]:mode=base;script=math;language=DFLT;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \fontdimen 8\font =46399.488sp\relax \fontdimen 9\font =87293.952sp\relax
+. \fontdimen 10\font =131334.144sp\relax \fontdimen 11\font =157286.4sp\relax
+. \fontdimen 12\font =471859.2sp\relax \fontdimen 13\font =0pt\relax 
+.................................................
+LaTeX Font Info:    Encoding `OMX' has changed to `EU2' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 17
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> EU2/Asana-Math.otf(2)/m/n on input line
+ 17.
+LaTeX Font Info:    Encoding `OMX' has changed to `EU2' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 17.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> EU2/Asana-Math.otf(2)/bx/n on input lin
+e 17.
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+)
+luaotfload | load : path lookup of "DINOT-Light.otf" unsuccessful, falling back 
+to file:(load luc: C:/texlive/2015/texmf-var/luatex-cache/generic/fonts/otf/dino
+t-light.luc)
+luaotfload | load : path lookup of "DINOT-Light.otf" unsuccessful, falling back 
+to file:
+\g__fontspec_family_DINOT-Light.otf_int=\count147
+luaotfload | load : path lookup of "DINOT-Light" unsuccessful, falling back to f
+ile:
+luaotfload | load : path lookup of "DINOT-Light" unsuccessful, falling back to f
+ile:
+luaotfload | aux : font no 28 (DINOT-Light) does not define feature smcp for scr
+ipt latn with language dflt
+luaotfload | aux : no font with id 28
+luaotfload | load : path lookup of "DINOT-Medium" unsuccessful, falling back to 
+file:(load luc: C:/texlive/2015/texmf-var/luatex-cache/generic/fonts/otf/dinot-m
+edium.luc)
+luaotfload | load : path lookup of "DINOT-Medium" unsuccessful, falling back to 
+file:
+luaotfload | aux : font no 29 (DINOT-Medium) does not define feature smcp for sc
+ript latn with language dflt
+luaotfload | aux : no font with id 29
+luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
+ file:(load luc: C:/texlive/2015/texmf-var/luatex-cache/generic/fonts/otf/dinot-
+regular.luc)
+luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
+ file:
+luaotfload | aux : font no 30 (DINOT-Regular) does not define feature smcp for s
+cript latn with language dflt
+luaotfload | aux : no font with id 30
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'DINOT-Light.otf(0)' created for font 'DINOT-Light.otf' with
+. options [Ligatures=TeX,BoldFont = DINOT-Medium.otf,ItalicFont =
+. DINOT-Regular.otf].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[DINOT-Light]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"[DINOT-Medium]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.: <->"[DINOT-Regular]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+.................................................
+luaotfload | load : path lookup of "DINOT-Light.otf" unsuccessful, falling back 
+to file:
+luaotfload | load : path lookup of "DINOT-Light.otf" unsuccessful, falling back 
+to file:
+luaotfload | load : path lookup of "DINOT-Light" unsuccessful, falling back to f
+ile:
+luaotfload | load : path lookup of "DINOT-Light" unsuccessful, falling back to f
+ile:
+luaotfload | aux : font no 28 (DINOT-Light) does not define feature smcp for scr
+ipt latn with language dflt
+luaotfload | aux : no font with id 28
+luaotfload | load : path lookup of "DINOT-Medium" unsuccessful, falling back to 
+file:
+luaotfload | load : path lookup of "DINOT-Medium" unsuccessful, falling back to 
+file:
+luaotfload | aux : font no 29 (DINOT-Medium) does not define feature smcp for sc
+ript latn with language dflt
+luaotfload | aux : no font with id 29
+luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
+ file:
+luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
+ file:
+luaotfload | aux : font no 30 (DINOT-Regular) does not define feature smcp for s
+cript latn with language dflt
+luaotfload | aux : no font with id 30
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'DINOT-Light.otf(1)' created for font 'DINOT-Light.otf' with
+. options [Renderer=Basic,BoldFont = DINOT-Medium.otf,ItalicFont =
+. DINOT-Regular.otf].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[DINOT-Light]:mode=base;script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"[DINOT-Medium]:mode=base;script=latn;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.: <->"[DINOT-Regular]:mode=base;script=latn;language=DFLT;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+.................................................
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  EU2/Asana-Math.otf(0)/m/n --> EU2/DINOT-Light.otf(1)/m/n
+ on input line 21.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU2/DINOT-Light.otf(1)/m/it on input li
+ne 21.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU2/DINOT-Light.otf(1)/bx/n on input li
+ne 21.
+luaotfload | load : path lookup of "DINOT-Light" unsuccessful, falling back to f
+ile:
+.................................................
+. lualatex-math info: "patch-macro"
+. 
+. I'm going to patch macro \frac.
+.................................................
+
+(./formatvorlage1.aux)
+\openout1 = formatvorlage1.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 41.
+ (c:/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+\AtBeginShipoutBox=\box44
+
+(c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count148
+\scratchdimen=\dimen161
+\scratchbox=\box45
+\nofMPsegments=\count149
+\nofMParguments=\count150
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count151
+\MPscratchDim=\dimen162
+\MPnumerator=\count152
+\makeMPintoPDFobject=\count153
+\everyMPtoPDFconversion=\toks22
+) (c:/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.tif,.jpeg,.PNG,.PDF,.JPG,.JPEG,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+
+))
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+Package hyperref Info: Link coloring OFF on input line 41.
+
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count154
+)
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-31.8738pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./allgemein/01_RT_Einfuehrung.tex
+Kapitel 1.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 3.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 3.
+luaotfload | load : path lookup of "DINOT-Regular.otf" unsuccessful, falling bac
+k to file:
+luaotfload | load : path lookup of "DINOT-Regular.otf" unsuccessful, falling bac
+k to file:
+\g__fontspec_family_DINOT-Regular.otf_int=\count155
+luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
+ file:
+luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
+ file:
+luaotfload | aux : font no 30 (DINOT-Regular) does not define feature smcp for s
+cript latn with language dflt
+luaotfload | aux : no font with id 30
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'DINOT-Regular.otf(0)' created for font 'DINOT-Regular.otf' with
+. options [].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[DINOT-Regular]:mode=node;script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
+ file:
+luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
+ file:
+Package epstopdf Info: Source file: <logos/Logo_HSRT_Schwarz.eps>
+(epstopdf)                    date: 2016-03-15 19:43:47
+(epstopdf)                    size: 290653 bytes
+(epstopdf)             Output file: <logos/Logo_HSRT_Schwarz-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2016-03-15 19:44:40
+(epstopdf)                    size: 20808 bytes
+(epstopdf)             Command: <repstopdf --outfile=logos/Logo_HSRT_Schwarz-eps
+-converted-to.pdf logos/Logo_HSRT_Schwarz.eps>
+(epstopdf)             \includegraphics on input line 3.
+Package epstopdf Info: Output file is already uptodate.
+<logos/Logo_HSRT_Schwarz-eps-converted-to.pdf, id=4, 207.77625pt x 50.1875pt>
+File: logos/Logo_HSRT_Schwarz-eps-converted-to.pdf Graphic file (type pdf)
+
+<use logos/Logo_HSRT_Schwarz-eps-converted-to.pdf>
+Package pdftex.def Info: logos/Logo_HSRT_Schwarz-eps-converted-to.pdf used on in
+put line 3.
+(pdftex.def)             Requested size: 207.77573pt x 50.18736pt.
+luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
+ file:
+luaotfload | load : path lookup of "DINOT-Medium.otf" unsuccessful, falling back
+ to file:
+luaotfload | load : path lookup of "DINOT-Medium.otf" unsuccessful, falling back
+ to file:
+\g__fontspec_family_DINOT-Medium.otf_int=\count156
+luaotfload | load : path lookup of "DINOT-Medium" unsuccessful, falling back to 
+file:
+luaotfload | load : path lookup of "DINOT-Medium" unsuccessful, falling back to 
+file:
+luaotfload | aux : font no 37 (DINOT-Medium) does not define feature smcp for sc
+ript latn with language dflt
+luaotfload | aux : no font with id 37
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'DINOT-Medium.otf(0)' created for font 'DINOT-Medium.otf' with
+. options [].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[DINOT-Medium]:mode=node;script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+luaotfload | load : path lookup of "DINOT-Medium" unsuccessful, falling back to 
+file:
+luaotfload | load : path lookup of "DINOT-Medium" unsuccessful, falling back to 
+file:
+luaotfload | load : path lookup of "BlenderPro-Medium.otf" unsuccessful, falling
+ back to file:(load luc: C:/texlive/2015/texmf-var/luatex-cache/generic/fonts/ot
+f/blenderpro-medium.luc)
+luaotfload | load : path lookup of "BlenderPro-Medium.otf" unsuccessful, falling
+ back to file:
+\g__fontspec_family_BlenderPro-Medium.otf_int=\count157
+luaotfload | load : path lookup of "BlenderPro-Medium" unsuccessful, falling bac
+k to file:
+luaotfload | load : path lookup of "BlenderPro-Medium" unsuccessful, falling bac
+k to file:
+luaotfload | aux : font no 41 (BlenderPro-Medium) does not define feature smcp f
+or script latn with language dflt
+luaotfload | aux : no font with id 41
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'BlenderPro-Medium.otf(0)' created for font
+. 'BlenderPro-Medium.otf' with options [].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[BlenderPro-Medium]:mode=node;script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+luaotfload | load : path lookup of "BlenderPro-Medium" unsuccessful, falling bac
+k to file:
+luaotfload | load : path lookup of "BlenderPro-Medium" unsuccessful, falling bac
+k to file:
+LaTeX Font Info:    Try loading font information for OT1+BlenderPro-Medium.otf(0
+) on input line 7.
+LaTeX Font Info:    No file OT1BlenderPro-Medium.otf(0).fd. on input line 7.
+
+
+LaTeX Font Warning: Font shape `OT1/BlenderPro-Medium.otf(0)/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead
+(Font)              for symbol `glqq' on input line 7.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 7.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 7.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 47.
+ [1
+
+
+{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./logos/Logo_HSRT
+_Schwarz-eps-converted-to.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
+ (./formatvorlage1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 47.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 25335 strings out of 495009
+ 125200,662416 words of node,token memory allocated
+ 317 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 attribute, 48 glue_spec, 3 attribute_list
+, 1 write nodes
+   avail lists: 1:3,2:164,3:40,4:148,5:58,6:395,7:10,8:4,9:51,10:51
+ 28189 multiletter control sequences out of 65536+600000
+ 44 fonts using 3266279 bytes
+ 43i,6n,88p,1070b,350s stack positions out of 5000i,500n,10000p,200000b,100000s
+<c:/Windows/fonts/blenderpro-medium.otf><c:/Windows/fonts/DINOT-Light.otf><c:/Wi
+ndows/fonts/DINOT-Medium.otf><c:/Windows/fonts/dinot-regular.otf><<c:/texlive/20
+15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on formatvorlage1.pdf (1 page, 38977 bytes).
+
+PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 131072)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+
