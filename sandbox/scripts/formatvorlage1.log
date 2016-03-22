@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/W32TeX) (rev 5238)  (format=lualatex 2016.3.14)  15 MAR 2016 20:16
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/W32TeX) (rev 5238)  (format=lualatex 2016.3.14)  19 MAR 2016 14:37
  restricted \write18 enabled.
 **formatvorlage1.tex
 (./formatvorlage1.tex
@@ -495,7 +495,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.094 seconds)
+luaotfload | main : initialization completed in 0.062 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (c:/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -1154,11 +1154,11 @@ luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
 luaotfload | load : path lookup of "DINOT-Regular" unsuccessful, falling back to
  file:
 Package epstopdf Info: Source file: <logos/Logo_HSRT_Schwarz.eps>
-(epstopdf)                    date: 2016-03-15 19:43:47
+(epstopdf)                    date: 2016-03-19 14:16:07
 (epstopdf)                    size: 290653 bytes
 (epstopdf)             Output file: <logos/Logo_HSRT_Schwarz-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-03-15 19:44:40
+(epstopdf)                    date: 2016-03-19 14:16:07
 (epstopdf)                    size: 20808 bytes
 (epstopdf)             Command: <repstopdf --outfile=logos/Logo_HSRT_Schwarz-eps
 -converted-to.pdf logos/Logo_HSRT_Schwarz.eps>
@@ -1243,53 +1243,70 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 7.
+LaTeX Font Info:    Try loading font information for OT1+DINOT-Light.otf(0) on i
+nput line 9.
+LaTeX Font Info:    No file OT1DINOT-Light.otf(0).fd. on input line 9.
+
+LaTeX Font Warning: Font shape `OT1/DINOT-Light.otf(0)/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead
+(Font)              for symbol `glqq' on input line 9.
+
+luaotfload | load : path lookup of "DINOT-Medium" unsuccessful, falling back to 
+file:
+
+LaTeX Warning: Citation `LunzeRT2014' on page 1 undefined on input line 9.
+
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 48.
  [1
 
 
 {c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./logos/Logo_HSRT
 _Schwarz-eps-converted-to.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
  (./formatvorlage1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 47.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 48.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25335 strings out of 495009
+ 25346 strings out of 495009
  125200,662416 words of node,token memory allocated
- 317 words of node memory still in use:
+ 318 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 attribute, 48 glue_spec, 3 attribute_list
 , 1 write nodes
-   avail lists: 1:3,2:164,3:40,4:148,5:58,6:395,7:10,8:4,9:51,10:51
- 28189 multiletter control sequences out of 65536+600000
- 44 fonts using 3266279 bytes
- 43i,6n,88p,1070b,350s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:3,2:182,3:46,4:204,5:94,6:708,7:19,8:4,9:58,10:99
+ 28194 multiletter control sequences out of 65536+600000
+ 46 fonts using 3350847 bytes
+ 43i,6n,88p,1070b,352s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/Windows/fonts/blenderpro-medium.otf><c:/Windows/fonts/DINOT-Light.otf><c:/Wi
 ndows/fonts/DINOT-Medium.otf><c:/Windows/fonts/dinot-regular.otf><<c:/texlive/20
-15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on formatvorlage1.pdf (1 page, 38977 bytes).
+15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><<c:/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on formatvorlage1.pdf (1 page, 47380 bytes).
 
-PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+PDF statistics: 65 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 131072)
  17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
